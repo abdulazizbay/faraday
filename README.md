@@ -1,10 +1,10 @@
-# 📚 Faraday — Teaching Platform Frontend
+# 📚 Faraday — Teaching Platform Frontend Part
 
 **Faraday** is a web app built for a teaching organization to manage and showcase their courses.
 
 ## 🔗 Live Demo
 
-👉 https://faraday-frontend.vercel.app/en
+👉 https://faraday-frontend.vercel.app
 
 ---
 
