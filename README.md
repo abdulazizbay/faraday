@@ -4,7 +4,7 @@
 
 ## 🔗 Live Demo
 
-👉 https://faraday-frontend.vercel.app
+👉 https://faraday.sbs
 
 ---
 
