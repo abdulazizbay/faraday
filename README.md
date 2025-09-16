@@ -4,7 +4,7 @@
 
 ## 🔗 Live Demo
 
-👉 https://faraday.sbs
+👉 https://faraday.uz
 
 ---
 
